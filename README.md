@@ -1,1 +1,2 @@
-netCore4Algacom
+# ASP NET Core Workshop
+Hands On Labs
